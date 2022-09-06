@@ -11,3 +11,4 @@ https://www.linkedin.com/in/pramod-tejra-45b9b9237/<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PramodTejra)](https://git.io/streak-stats)<br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PramodTejra&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodTejra&theme=tokyonight)
