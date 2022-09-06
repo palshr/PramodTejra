@@ -4,7 +4,7 @@
 😎Age 20<br>
 👨‍🎓Sophomore at IIIT Bhopal.<br>
 📩pramodtejrapiku01@gmail.com<br>
-👨‍💻Familiar with C||C++ learning pyrhon and web-dev.<br>
+👨‍💻Familiar with C||C++ learning python and web-development.<br>
 👉Linked-In-
 https://www.linkedin.com/in/pramod-tejra-45b9b9237/<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodTejra&theme=tokyonight)
