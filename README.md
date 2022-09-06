@@ -7,9 +7,10 @@
 👨‍💻Familiar with C||C++ learning pyrhon and web-dev.<br>
 👉Linked-In-
 https://www.linkedin.com/in/pramod-tejra-45b9b9237/<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodTejra&theme=tokyonight)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PramodTejra)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PramodTejra)](https://git.io/streak-stats)<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodTejra&theme=tokyonight)
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PramodTejra&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
 
