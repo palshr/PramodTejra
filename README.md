@@ -36,12 +36,11 @@
   <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
    
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodTejra&theme=tokyonight)
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PramodTejra&theme=dark&background=000000)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodTejra&theme=tokyonight)<br>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PramodTejra)](https://github.com/anuraghazra/github-readme-stats)<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PramodTejra)](https://git.io/streak-stats)<br>
-
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PramodTejra&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
 
