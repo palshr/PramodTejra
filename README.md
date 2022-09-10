@@ -17,13 +17,13 @@
 </div>
 </div>
 <h2>About Me:</h2>
-I am Pramod Tejra.<br>
+
+ 👉I am Pramod Tejra.<br>
 😎Age 20<br>
 👨‍🎓Sophomore at IIIT Bhopal.<br>
 📩pramodtejrapiku01@gmail.com<br>
 👨‍💻Familiar with C||C++ learning python and web-development.<br>
-👉Linked-In-
-https://www.linkedin.com/in/pramod-tejra-45b9b9237/<br>
+:mailbox:Linked-In- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-tejra-45b9b9237/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodTejra&theme=tokyonight)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PramodTejra)](https://github.com/anuraghazra/github-readme-stats)<br>
