@@ -23,7 +23,6 @@
 👨‍🎓Sophomore at IIIT Bhopal.<br>
 📧pramodtejrapiku01@gmail.com<br>
 👨‍💻Familiar with C||C++ learning python and web-development.<br>
-:mailbox:Linked-In- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-tejra-45b9b9237/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
